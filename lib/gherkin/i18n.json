@@ -10,7 +10,7 @@
 	  "given": "*|Given",
 	  "when": "*|When",
 	  "then": "*|Then",
-	  "and": "*|And",
+	  "and": "*|And|With",
 	  "but": "*|But"
 	},
 	"ar": {
